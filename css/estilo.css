@@ -1,6 +1,13 @@
 body
 {
-    color: aqua;
+    background-color: pink;
+    color: black;
     text-align: center;
     font-family: "arial";
+
+
+}
+p
+{
+color: darkslategrey;
 }
