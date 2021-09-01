@@ -4,7 +4,8 @@ decimal = 0.0
 apellido= ("")
 inicial = ("")
 
-edad = ("introduzca su edad")
+edad =  input("introduzca su edad")
+
 
 
 
